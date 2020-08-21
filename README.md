@@ -1,1 +1,1 @@
-# ALL-type-of-EDA-collection
+# fitbit data EDA
